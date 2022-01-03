@@ -24,7 +24,7 @@ sleep 1
     sudo apt --fix-broken install -y  
     apt update 
 sleep 2;
-	apt -y install software-properties-common m&& apt -y install lamp-server^ php8.0 perl python apt-transport-https unzip 
+	apt -y install software-properties-common lamp-server^ php8.0 perl python apt-transport-https unzip 
 	apt -y install php-cli php-common php-mbstring php-gd php-intl php-xml php-mysql php-zip php-curl php-xmlrpc 
     apt -y install php8.0 
     apt -y install php8.0-common php8.0-mysql php8.0-xml php8.0-xmlrpc php8.0-curl php8.0-gd php8.0-imagick php8.0-cli php8.0-dev php8.0-imap php8.0-mbstring php8.0-opcache php8.0-soap php8.0-zip php8.0-intl
